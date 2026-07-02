@@ -1,5 +1,5 @@
 {
-  "installCommand": "pnpm install",
+  "installCommand": "pnpm install --ignore-scripts",
   "buildCommand": "npm run build",
   "outputDirectory": "dist/public"
 }
